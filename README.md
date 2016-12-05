@@ -1,4 +1,8 @@
 # journal
+
+[![Join the chat at https://gitter.im/journal/Lobby](https://badges.gitter.im/journal/Lobby.svg)](https://gitter.im/journal/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/skob/journald](https://badges.gitter.im/skob/journald.svg)](https://gitter.im/skob/journald?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 journald => web gateway
 
 ## Attention!
